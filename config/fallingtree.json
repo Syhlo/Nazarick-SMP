@@ -87,7 +87,10 @@
       "vasas:axes/acacia_netherite_axe",
       "betterend:aeternium_axe",
       "betterend:thallasium_axe",
-      "betterend:terminite_axe"
+      "betterend:terminite_axe",
+      "betternether:cincinnasite_axe",
+      "betternether:cincinnasite_axe_diamond",
+      "betternether:nether_ruby_axe"
     ],
     "denied": [],
     "preserve": true,

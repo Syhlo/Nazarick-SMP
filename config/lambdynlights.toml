@@ -117,6 +117,9 @@ mode = "fancy"
 				vein_goblin_trader = true
 				goblin_trader = true
 
+			[light_sources.settings.entities.hedgehog]
+				hedgehog = true
+
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true
