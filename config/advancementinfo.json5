@@ -1,0 +1,11 @@
+{
+	"colorHave": 43520,
+	"colorHaveNot": 11141120,
+	"marginX": 140,
+	"marginY": 140,
+	"infoWidth": {
+		"min": 100,
+		"max": 100,
+		"percent": 50
+	}
+}

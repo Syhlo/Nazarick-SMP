@@ -1,0 +1,13 @@
+Minecraft {version} {client_version}
+&e{fps}&r/{max_fps} fps{{vsync, " (vsync)"}} ({ping}ms)
+&e{memory_used_percentage}%&r of {total_memory}MB
+{{tps, "&e{tps}&r tps (&e{ms_ticks}&r ms ticks)", ""}}
+Entities: {entities_rendered}/{entities_loaded} (rendered)
+
+Light: &e{light_block}
+{{nether, "Overworld:", "Nether:"}}&e {nx} {nz}
+
+Facing: &e{facing}&r (&e{yaw}&r, &e{pitch}&r)
+Looking: {{tbx, "at &e{tbx} {tby} {tbz}", "into the abyss"}}
+Biome: &e{biome}
+XYZ: &e{bx} &a{by} &6{bz}&r &7({dimension})

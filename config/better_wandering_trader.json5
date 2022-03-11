@@ -1,0 +1,74 @@
+{
+	"trades": {
+		"enable_user_added_traded": true
+	},
+	"invisibleTradeFactory": {
+		"number_of_trades": 8,
+		"trades_to_choose": 1,
+		"array": [
+			{
+				"identifier": "minecraft:creeper_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:skeleton_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:zombie_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:zombie_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:zombie_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:spider_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:spider_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			},
+			{
+				"identifier": "minecraft:spider_spawn_egg",
+				"price": 48,
+				"count": 1,
+				"maxUses": 2,
+				"experience": 1
+			}
+		]
+	},
+	"example": {
+		"identifier": "minecraft:end_crystal",
+		"price": 0,
+		"count": 0,
+		"maxUses": 0,
+		"experience": 0
+	}
+}
