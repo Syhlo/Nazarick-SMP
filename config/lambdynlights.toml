@@ -60,6 +60,7 @@ mode = "fancy"
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
+				snowball = true
 				parrot = true
 				creeper = true
 				lightning_bolt = true
@@ -107,37 +108,11 @@ mode = "fancy"
 				cod = true
 				spider = true
 
-			[light_sources.settings.entities.graveyard]
-				revenant = true
-				skeleton_creeper = true
-				ghoul = true
-				nightmare = true
-
-			[light_sources.settings.entities.goblintraders]
-				vein_goblin_trader = true
-				goblin_trader = true
-
-			[light_sources.settings.entities.hedgehog]
-				hedgehog = true
-
-			[light_sources.settings.entities.betternether]
-				naga_projectile = true
-				firefly = true
-				skull = true
-				naga = true
-
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
 
 			[light_sources.settings.entities.myloot]
 				loot_chest_minecart = true
-
-			[light_sources.settings.entities.friendsandfoes]
-				glare = true
-				moobloom = true
-
-			[light_sources.settings.entities.pigeons]
-				pigeon = true
 
 			[light_sources.settings.entities.fishofthieves]
 				devilfish = true
@@ -154,6 +129,77 @@ mode = "fancy"
 			[light_sources.settings.entities.hookshot]
 				hookshot = true
 
+			[light_sources.settings.entities.lovely_snails]
+				snail = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				skeleton_creeper = true
+				ghoul = true
+				nightmare = true
+
+			[light_sources.settings.entities.goblintraders]
+				vein_goblin_trader = true
+				goblin_trader = true
+
+			[light_sources.settings.entities.hedgehog]
+				hedgehog = true
+
+			[light_sources.settings.entities.betternether]
+				naga_projectile = true
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				moobloom = true
+
+			[light_sources.settings.entities.pigeons]
+				pigeon = true
+
 			[light_sources.settings.entities.boatcontainer]
 				chest_boat = true
+
+			[light_sources.settings.entities.wildlife]
+				rhino_beetle = true
+				snail = true
+				spicebush_butterfly = true
+				possum = true
+				ladybug = true
+				robin = true
+				cottonbird = true
+				dragonfly = true
+				hermitcrab = true
+				iguana = true
+				king_snake = true
+				staghorn_beetle = true
+				glasswing_butterfly = true
+				sparrow = true
+				porcupine = true
+				tiger_butterfly = true
+				lark = true
+				phoebe = true
+				june_beetle = true
+				chameleon = true
+				flycatcher = true
+				hamster = true
+				ant = true
+				monarch_butterfly = true
+				stickbug = true
+				grass_snake = true
+				bluebird = true
+				sunflowerbeetle = true
+				goldfinch = true
+				chickadee = true
+				badger = true
+				gecko = true
+				wren = true
+				hedgehog = true
+				cricket = true
+				spider = true
+				ferret = true
+				white_eye = true
+				crab = true
 

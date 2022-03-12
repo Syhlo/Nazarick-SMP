@@ -1,20 +1,18 @@
 {
 	"basics": {
 		"favorites": [
-			"{data:{Count:1b,id:\"minecraft:diamond\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"fallingtree:chopper\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"waystones:abyss_watcher\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"usageKeybind": {
-				"keyCode": "key.keyboard.u",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"hideKeybind": {
@@ -34,11 +32,11 @@
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
-				"keyCode": "key.mouse.middle",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"exportImageKeybind": {
