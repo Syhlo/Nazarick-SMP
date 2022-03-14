@@ -1,8 +1,6 @@
 {
 	"basics": {
-		"favorites": [
-			"{data:{Count:1b,id:\"waystones:abyss_watcher\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,

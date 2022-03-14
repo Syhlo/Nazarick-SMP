@@ -24,6 +24,7 @@ mode = "fancy"
 				bee = true
 				axolotl = true
 				egg = true
+				zoglin = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -150,6 +151,7 @@ mode = "fancy"
 				firefly = true
 				hydrogen_jellyfish = true
 				skull = true
+				jungle_skeleton = true
 				naga = true
 
 			[light_sources.settings.entities.friendsandfoes]
@@ -163,9 +165,11 @@ mode = "fancy"
 				chest_boat = true
 
 			[light_sources.settings.entities.wildlife]
+				deer = true
 				rhino_beetle = true
 				snail = true
 				spicebush_butterfly = true
+				monkey = true
 				possum = true
 				ladybug = true
 				robin = true
@@ -182,6 +186,7 @@ mode = "fancy"
 				lark = true
 				phoebe = true
 				june_beetle = true
+				python = true
 				chameleon = true
 				flycatcher = true
 				hamster = true
@@ -189,6 +194,7 @@ mode = "fancy"
 				monarch_butterfly = true
 				stickbug = true
 				grass_snake = true
+				towhee = true
 				bluebird = true
 				sunflowerbeetle = true
 				goldfinch = true
@@ -202,4 +208,5 @@ mode = "fancy"
 				ferret = true
 				white_eye = true
 				crab = true
+				meadowlark = true
 
