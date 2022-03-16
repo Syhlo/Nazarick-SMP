@@ -47,6 +47,7 @@ mode = "fancy"
 				salmon = true
 				wither_skeleton = true
 				wandering_trader = true
+				vex = true
 				piglin_brute = true
 				goat = true
 				ocelot = true
@@ -55,9 +56,11 @@ mode = "fancy"
 				vindicator = true
 				phantom = true
 				minecart = true
+				ender_dragon = true
 				leash_knot = true
 				evoker = true
 				llama_spit = true
+				mooshroom = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -92,6 +95,7 @@ mode = "fancy"
 				illusioner = true
 				potion = true
 				trident = true
+				wither_skull = true
 				villager = true
 				wolf = true
 				skeleton_horse = true
@@ -108,6 +112,7 @@ mode = "fancy"
 				witch = true
 				cod = true
 				spider = true
+				wither = true
 
 			[light_sources.settings.entities.guardvillagers]
 				guard = true
@@ -133,6 +138,9 @@ mode = "fancy"
 			[light_sources.settings.entities.lovely_snails]
 				snail = true
 
+			[light_sources.settings.entities.adorn]
+				seat = true
+
 			[light_sources.settings.entities.graveyard]
 				revenant = true
 				skeleton_creeper = true
@@ -156,6 +164,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
+				copper_golem = true
 				moobloom = true
 
 			[light_sources.settings.entities.pigeons]
@@ -165,44 +174,52 @@ mode = "fancy"
 				chest_boat = true
 
 			[light_sources.settings.entities.wildlife]
-				deer = true
-				rhino_beetle = true
 				snail = true
 				spicebush_butterfly = true
 				monkey = true
 				possum = true
 				ladybug = true
-				robin = true
+				morpho_butterfly = true
 				cottonbird = true
-				dragonfly = true
+				boar = true
+				anteater = true
 				hermitcrab = true
-				iguana = true
-				king_snake = true
-				staghorn_beetle = true
+				armadillo = true
 				glasswing_butterfly = true
-				sparrow = true
-				porcupine = true
 				tiger_butterfly = true
-				lark = true
 				phoebe = true
+				beaver = true
 				june_beetle = true
 				python = true
 				chameleon = true
-				flycatcher = true
 				hamster = true
+				stickbug = true
+				milk_snake = true
+				grass_snake = true
+				bluebird = true
+				gecko = true
+				hedgehog = true
+				deer = true
+				rhino_beetle = true
+				robin = true
+				dragonfly = true
+				iguana = true
+				king_snake = true
+				staghorn_beetle = true
+				sparrow = true
+				porcupine = true
+				lark = true
+				swallow = true
+				oriole = true
+				flycatcher = true
 				ant = true
 				monarch_butterfly = true
-				stickbug = true
-				grass_snake = true
 				towhee = true
-				bluebird = true
 				sunflowerbeetle = true
 				goldfinch = true
 				chickadee = true
 				badger = true
-				gecko = true
 				wren = true
-				hedgehog = true
 				cricket = true
 				spider = true
 				ferret = true
