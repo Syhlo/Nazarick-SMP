@@ -120,6 +120,9 @@ mode = "fancy"
 			[light_sources.settings.entities.myloot]
 				loot_chest_minecart = true
 
+			[light_sources.settings.entities.homebodies_fantasy]
+				mountable_hidden_entity = true
+
 			[light_sources.settings.entities.fishofthieves]
 				devilfish = true
 				splashtail = true
