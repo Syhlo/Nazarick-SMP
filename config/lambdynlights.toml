@@ -59,6 +59,7 @@ mode = "fancy"
 				ender_dragon = true
 				leash_knot = true
 				evoker = true
+				spectral_arrow = true
 				llama_spit = true
 				mooshroom = true
 				glow_squid = true

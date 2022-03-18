@@ -11,6 +11,8 @@
   "enableEnemyTeamPlayersSkinFeatures": true,
   "enableBlinking": true,
   "blinkFrequency": 200,
+  "blinkLength": 1,
   "enableTridents": true,
-  "enableElytra": true
+  "enableElytra": true,
+  "elytraThicknessFix": true
 }
