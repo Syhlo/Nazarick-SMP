@@ -149,9 +149,11 @@ mode = "fancy"
 				seat = true
 
 			[light_sources.settings.entities.graveyard]
+				acolyte = true
 				revenant = true
 				skeleton_creeper = true
 				ghoul = true
+				reaper = true
 				nightmare = true
 
 			[light_sources.settings.entities.goblintraders]
@@ -164,6 +166,7 @@ mode = "fancy"
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true
+				flying_pig = true
 				hydrogen_jellyfish = true
 				skull = true
 				jungle_skeleton = true

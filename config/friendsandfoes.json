@@ -11,7 +11,7 @@
   "moobloomSpawnMaxGroupSize": 4,
   "enableBeekeeperVillagerProfession": true,
   "generateBeekeeperAreaStructure": true,
-  "enableIllusionerInRaids": true,
+  "enableIllusionerInRaids": false,
   "generateIllusionerShackStructure": true,
   "illusionerShackStructureSpacing": 25,
   "illusionerShackStructureSeparation": 20
