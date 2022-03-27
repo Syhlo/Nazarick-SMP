@@ -2,9 +2,52 @@
   "selections": {
     "mode": "SIMPLE"
   },
-  "placements": {},
+  "placements": {
+    "placements": [
+      {
+        "schematic": "D:\\Mojang\\CurseForge\\Instances\\Nazarick-SMP\\schematics\\Ores.litematic",
+        "name": "Ores",
+        "origin": [
+          -14699,
+          101,
+          -7367
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Ores",
+            "placement": {
+              "pos": [
+                18,
+                2,
+                0
+              ],
+              "name": "Ores",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
   "schematic_projects_manager": {},
-  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "operation_mode": "PASTE_SCHEMATIC",
   "render_range": {
     "mode": "ALL",
     "axis": "Y",
@@ -17,21 +60,21 @@
     "hotkey_range_max": false
   },
   "area_simple": {
-    "name": "Unnamed",
-    "current": "Unnamed",
+    "name": "Ores",
+    "current": "Ores",
     "boxes": [
       {
         "pos1": [
-          0,
-          0,
-          0
+          -14699,
+          100,
+          -7373
         ],
         "pos2": [
-          0,
-          0,
-          0
+          -14699,
+          100,
+          -7373
         ],
-        "name": "Unnamed"
+        "name": "Ores"
       }
     ]
   },

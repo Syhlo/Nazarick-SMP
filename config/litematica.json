@@ -77,7 +77,7 @@
       "keys": ""
     },
     "executeOperation": {
-      "keys": ""
+      "keys": "L,P"
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -125,7 +125,7 @@
       "keys": "KP_SUBTRACT"
     },
     "openGuiSchematicPlacements": {
-      "keys": "L,P"
+      "keys": ""
     },
     "openGuiSchematicProjects": {
       "keys": ""
@@ -307,7 +307,7 @@
     "verifierErrorHilightMaxPositions": 1000
   },
   "Visuals": {
-    "enableRendering": true,
+    "enableRendering": false,
     "enableSchematicRendering": true,
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
