@@ -1,0 +1,23 @@
+{
+  "specialDrops": {
+    "egyptian_swift": {
+      "item": "minecraft:cooked_beef",
+      "count": 5
+    },
+    "antwerp_smerle_gray": {
+      "item": "minecraft:raw_copper",
+      "count": 7
+    },
+    "city": {
+      "item": "minecraft:diamond",
+      "count": 1
+    },
+    "antwerp_smerle_brown": {
+      "item": "minecraft:raw_iron",
+      "count": 3
+    }
+  },
+  "dropChanceDay": 17000,
+  "dropChanceNight": 5700,
+  "specialDropChance": 100
+}
